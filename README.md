@@ -1,2 +1,2 @@
-# module5-assignment
-https://dilshadhnasreen.github.io/module5-assignment/
+# Coursera 3
+https://dilshadhnasreen.github.io/HTML-CSS-part3/
